@@ -1,2 +1,2 @@
 # blogger
-A language to develop blogs easily
+A language to develop blogs easily via Python

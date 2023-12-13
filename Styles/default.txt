@@ -1,0 +1,4 @@
+TITLE
+size: 48
+font: Verdana
+color: #000000
