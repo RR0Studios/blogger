@@ -2,3 +2,33 @@ TITLE
 size: 48
 font: Verdana
 color: #000000
+
+HEADING1
+size: 40
+font: Verdana
+color: #000000
+
+HEADING2
+size: 36
+font: Verdana
+color: #000000
+
+HEADING3
+size: 30
+font: Verdana
+color: #000000
+
+HEADING4
+size: 24
+font: Verdana
+color: #000000
+
+HEADING5
+size: 20
+font: Verdana
+color: #000000
+
+HEADING6
+size: 18
+font: Verdana
+color: #000000
